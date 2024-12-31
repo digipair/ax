@@ -1,3 +1,17 @@
+
+
+## [10.1.0](https://github.com/ax-llm/ax/compare/10.0.18...10.1.0) (2024-12-31)
+
+
+### Features
+
+* add input audio type compatibility ([5527642](https://github.com/ax-llm/ax/commit/5527642aa515ff0c71074bddd553a2949465a704))
+
+
+### Bug Fixes
+
+* add required dependency eslint-plugin-perfectionist ([af8a020](https://github.com/ax-llm/ax/commit/af8a0208fe4ad50540e9cbeae8bda1743087e460))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
