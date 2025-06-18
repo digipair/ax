@@ -127,12 +127,10 @@ import {
   AxAIMistral,
   axAIMistralBestConfig,
   axAIMistralDefaultConfig,
-  type AxAIMistralArgs
-} from './ai/mistral/api.js';
-import {
-  AxAIMistralEmbedModels,
-  AxAIMistralModel
-} from './ai/mistral/types.js';
+  type AxAIMistralArgs,
+  type AxAIMistralChatRequest
+} from './ai/mistral/api.js'
+import { AxAIMistralEmbedModels, AxAIMistralModel } from './ai/mistral/types.js'
 import {
   AxAIOllama,
   axAIOllamaDefaultConfig,
@@ -715,6 +713,7 @@ export type { AxAIHuggingFaceResponse };
 export type { AxAIInputModelList };
 export type { AxAIMemory };
 export type { AxAIMistralArgs };
+export type { AxAIMistralChatRequest };
 export type { AxAIModelList };
 export type { AxAIModelListBase };
 export type { AxAIModels };
