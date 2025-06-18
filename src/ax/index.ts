@@ -129,8 +129,11 @@ import {
   axAIMistralDefaultConfig,
   type AxAIMistralArgs,
   type AxAIMistralChatRequest
-} from './ai/mistral/api.js'
-import { AxAIMistralEmbedModels, AxAIMistralModel } from './ai/mistral/types.js'
+} from './ai/mistral/api.js';
+import {
+  AxAIMistralEmbedModels,
+  AxAIMistralModel
+} from './ai/mistral/types.js';
 import {
   AxAIOllama,
   axAIOllamaDefaultConfig,
