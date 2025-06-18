@@ -1,5 +1,12 @@
 # Changelog
 
+## [11.0.51-1](https://github.com/ax-llm/ax/compare/11.0.50...11.0.51-0) (2025-06-18)
+## [11.0.51-0](https://github.com/ax-llm/ax/compare/11.0.50...11.0.51-0) (2025-06-18)
+
+### Bug Fixes
+
+* mistral max_completion_token not exist and set topP to 1 ([90cbd64](https://github.com/ax-llm/ax/commit/90cbd6481e7430ba64fb3468c522288c356c3676))
+
 ## [11.0.51-0](https://github.com/ax-llm/ax/compare/11.0.66...11.0.50) (2025-06-18)
 
 ### Bug Fixes
